@@ -1,4 +1,4 @@
-package test.com.greedy.test;
+package com.greedy.test;
 
 public class Application {
 
